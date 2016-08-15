@@ -1,0 +1,7 @@
+body{background: #fff;}
+div,body,img{margin: 0;padding: 0;}
+body{width: auto;height: auto;}
+#clock{margin: auto;width: 751px; height: 727px;background: url("../images/clock.jpg");position: relative;}
+.hours{width: 600px;height: 600px;position: absolute;z-index: 100;left:79px;top:70px;}
+.minutes{width: 600px;height: 600px;position: absolute;z-index: 99;left:79px;top:70px;}
+.seconds{width: 600px;height: 600px;position: absolute;z-index: 98;left:79px;top:70px;}
